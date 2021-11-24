@@ -1,15 +1,16 @@
 ---
-title: F7-AI-SingularityNet
-description: THow can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
+title: F7: Boosting Cardano's DeFi
+description: How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
 ---
-![2021-11-24 (1)](https://user-images.githubusercontent.com/25156451/143220952-f8450975-d63d-44e7-8c6c-497d50fa58a4.png)
 
 
-# F7-AI-SingularityNet
 
-How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
+# F7: Boosting Cardano's DeFi
 
-Welcome to the GitHub repository of F7-AI-SingularityNet
+How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+
+Welcome to the GitHub repository of F7: Boosting Cardano's DeFi
 
 ## To participate :
 * Submit issues
@@ -17,7 +18,7 @@ Welcome to the GitHub repository of F7-AI-SingularityNet
 * Submit Pull Requests
 
 ### Open source documents 
-- [Code of Conduct](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet/blob/main/CODE-OF-CONDUCT.md)
+- [Code of Conduct](https://github.com/Catalyst-Challenges/Boosting-Cardanos-DeFi/blob/main/CODE-OF-CONDUCT.md)
 - [Contribute](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet/blob/main/CONTRIBUTE.md)
 - [Licence](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet/blob/main/LICENSE)
 
