@@ -3,7 +3,7 @@ title: F7-Boosting-Cardanos-DeFi
 description: How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
 ---
-
+![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
 
 # F7: Boosting Cardano's DeFi
 
